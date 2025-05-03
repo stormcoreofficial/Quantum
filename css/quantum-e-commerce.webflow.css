@@ -593,6 +593,11 @@
   .heading-32 {
     font-size: 4vw;
   }
+
+  .background-video {
+    width: 90vw;
+    height: 50vw;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -819,5 +824,10 @@
 
   .lista-mobile {
     display: block;
+  }
+
+  .background-video {
+    width: 90vw;
+    height: 50vw;
   }
 }
