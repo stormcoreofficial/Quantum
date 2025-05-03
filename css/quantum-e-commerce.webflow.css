@@ -152,6 +152,7 @@
 .image-27 {
   border-radius: 10px;
   width: 60vw;
+  height: 34vw;
 }
 
 .heading-31 {
@@ -421,6 +422,11 @@
 
 .lista-mobile {
   display: none;
+}
+
+.background-video {
+  width: 60vw;
+  height: 35vw;
 }
 
 @media screen and (min-width: 1280px) {
